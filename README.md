@@ -35,7 +35,6 @@ Google Sheets (Medicines, Diseases, Symptoms)
 ```
 .
 ├── pharma\_chatbot\_gsheets.py     # Main application script
-├── .env.example                  # Template for environment variables
 ├── credentials.json              # Google service account key (NOT to be committed)
 └── README.md                     # This file
 ```
@@ -45,7 +44,7 @@ Google Sheets (Medicines, Diseases, Symptoms)
 
 ### 1. 🔑 Environment Setup
 
-Create a `.env` file based on the provided `.env.example`:
+Create a `.env` file with the below template
 
 ```env
 SPREADSHEET_ID=your_google_sheet_id
