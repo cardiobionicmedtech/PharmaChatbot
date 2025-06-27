@@ -1,0 +1,12 @@
+streamlit
+pandas
+gspread
+python-dotenv
+google-auth
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+sentence-transformers
+faiss-cpu
